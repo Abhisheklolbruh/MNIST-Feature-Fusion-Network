@@ -1,0 +1,32 @@
+
+MLP
+Original: 97.78%
+Noise 0.1: 97.72%
+Noise 0.2: 96.96%
+Noise 0.3: 94.95%
+Rotation 15: 93.52%
+Gaussian Blur: 95.29%
+
+CNN
+Original: 99.11%
+Noise 0.1: 98.97%
+Noise 0.2: 98.00%
+Noise 0.3: 91.94%
+Rotation 15: 96.29%
+Gaussian Blur: 98.17%
+
+Feature Fusion
+Original: 99.30%
+Noise 0.1: 99.19%
+Noise 0.2: 95.97%
+Noise 0.3: 64.40%
+Rotation 15: 98.30%
+Gaussian Blur: 97.61%
+
+Noise Augmented
+Original: 99.02%
+Noise 0.1: 99.10%
+Noise 0.2: 99.12%
+Noise 0.3: 97.66%
+Rotation 15: 97.57%
+Gaussian Blur: 95.41%
